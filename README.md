@@ -1,48 +1,18 @@
+# 👋 Hi, I'm Ameen PS
 
-
-<h1 align="center">Hi 👋, I'm Ameen PS</h1>
-<h3 align="center">Full Stack Developer | Python • Django • Java • Spring MVC</h3>
-
-<p align="center">
-  <a href="mailto:ameenps101@gmail.com"><img src="https://img.shields.io/badge/Email-ameenps101@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="http://www.linkedin.com/in/ameen-ps-a7a620294" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ameen Ps-blue?style=flat-square&logo=linkedin"></a>
-</p>
+🎓 Currently pursuing **MCA** | BCA Graduate from MG University  
+💻 Aspiring Python Developer | Backend Intern at Springreen  
+📍 Based in Kerala, India | Open to relocation and remote work
 
 ---
 
-## 👨‍💻 About Me
-
-🌱 I'm a passionate developer with a strong foundation in **Python, Django, Java**, and **Spring MVC**.  
-🎓 I completed my training and internship at **One Team Solutions** , building real-world web applications.  
-💼 Currently working on a major project called **Springreen Institutions**—a hybrid EdTech platform using Django REST + React.  
-📊 I also have experience using **JasperReports**, **Celery with Redis**, and **Razorpay integration**.
-
----
-
-## 🛠️ Tech Stack
-
-| Category      | Technologies |
-|---------------|--------------|
-| Languages     | Python, Java, JavaScript, HTML, CSS |
-| Frameworks    | Django, Django REST Framework, Spring MVC, Bootstrap |
-| Databases     | MySQL, PostgreSQL |
-| Tools & IDEs  | VS Code, Postman, Git, GitHub, Jaspersoft Studio |
-| Deployment    | Vercel, Railway, Render |
-| APIs & Others | Razorpay, Celery, Redis, JWT Auth |
+### 💼 What I Do
+- 🔧 Build REST APIs with **Python (FastAPI & Django)**
+- 🌐 Work on full-stack apps using **HTML, CSS, JavaScript, Bootstrap**
+- 🛠️ Practice data structures and algorithms on **LeetCode**
+- 🧪 Use Git & GitHub for collaboration and version control
 
 ---
-
-## 💼 Featured Project: Springreen Institutions
-
-> A hybrid learning platform with Admin, Student & Trainer panels, built using Django REST and React.js
-
-📌 **Features:**
-- Course booking and subscription
-- Trainer scheduling and material uploads
-- Payment integration with Razorpay
-- JWT-based authentication
-- RESTful APIs for Admin, Student, and Trainer
-
 
 ---
 
@@ -59,16 +29,34 @@
 
 ---
 
-## 📫 Connect with Me
-
-- ✉️ Email: [ameenps101@gmail.com](mailto:ameenps101@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/Ameen Ps](https://www.linkedin.com/in/ameen-ps-a7a620294/)  
-- 🌐 Portfolio: *Coming Soon*
+### 📌 Projects
+- 🛒 **E-Commerce Web App** – Built with Django, MySQL, and Bootstrap  
+- 📊 **Data Visualization Dashboard** – Dynamic charts using Chart.js and Django  
+- 🔄 **Spring MVC App** – CRUD with Java, Hibernate, MySQL
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Motivational Quote" />
-</p>
+### 🧠 Learning & Goals
+- 📖 Currently pursuing **Master of Computer Applications (MCA)**
+- 🔍 Improve problem-solving via LeetCode
+- 🚀 Explore DevOps and deployment (Docker, CI/CD)
+- 📚 Continue building real-world projects
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: ameenps101@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ameen-ps-a7a620294)  
+- 💻 [GitHub](https://github.com/ameenps)
+
+---
+
+> ⚡ "Consistency is the key to growth — one line of code at a time."
+
+
+
+
+
+
 
 
