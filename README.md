@@ -96,6 +96,7 @@
 - 📧 Email: **ameenps101@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/ameen-ps-a7a620294
 - 💻 GitHub: https://github.com/ameenps
+- 💻 Indeed: https://profile.indeed.com/p/ameenp-d3gw1pq
 
 ---
 
